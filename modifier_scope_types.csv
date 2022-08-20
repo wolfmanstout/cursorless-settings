@@ -52,3 +52,12 @@ callee, functionCallee
 
 # 2022-08-16 09:42:34 - New entries automatically added by cursorless
 short paint, boundedNonWhitespaceSequence
+
+# 2022-08-20 09:07:27 - New entries automatically added by cursorless
+chapter, chapter
+environment, environment
+paragraph, namedParagraph
+part, part
+subparagraph, subParagraph
+subsection, subSection
+subsubsection, subSubSection
