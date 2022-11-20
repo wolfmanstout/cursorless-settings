@@ -61,3 +61,7 @@ part, part
 subparagraph, subParagraph
 subsection, subSection
 subsubsection, subSubSection
+
+# 2022-11-20 13:31:45 - New entries automatically added by cursorless
+identifier, identifier
+unit, unit
