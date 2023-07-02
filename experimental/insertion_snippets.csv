@@ -2,3 +2,21 @@ Spoken form, Cursorless identifier
 if, ifStatement
 if else, ifElseStatement
 try, tryCatchStatement
+
+else, elseStatement
+elsif, elseIfStatement
+in it, constructor
+map, map
+with, withStatement
+# switch, switchStatement
+# case, caseStatement
+while, whileStatement
+# on ready, talonOnReady
+# full context, talonContextFile
+# shebang, shebang
+else if, elseIf
+# use effect, useEffect
+turn, ternaryExpression
+# debug, debugPrint
+# debug jason, debugJson
+# bold, bold
