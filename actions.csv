@@ -58,3 +58,7 @@ snippet make, generateSnippet
 # 2023-12-15 21:41:38 - New entries automatically added by cursorless
 break, breakLine
 join, joinLines
+
+# 2024-06-04 22:18:07 - New entries automatically added by cursorless
+decrement, decrement
+increment, increment
