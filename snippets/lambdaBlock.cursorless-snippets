@@ -20,6 +20,23 @@
             "formatter": "camelCase"
           }
         }
+      }, 
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "{ $parameters ->",
+          "\t$body",
+          "}"
+        ],
+        "variables": {
+          "parameters": {
+            "formatter": "camelCase"
+          }
+        }
       }
     ],
     "description": "Lambda block",

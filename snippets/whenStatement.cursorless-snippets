@@ -1,0 +1,27 @@
+{
+  "whenStatement": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "when ($value) {",
+          "\t$body",
+          "}"
+        ]
+      }
+    ],
+    "description": "When statement",
+    "variables": {
+      "caseBody": {
+        "wrapperScopeType": "statement"
+      }
+    },
+    "insertionScopeTypes": [
+      "statement"
+    ]
+  }
+}

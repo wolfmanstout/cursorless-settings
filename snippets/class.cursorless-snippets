@@ -23,7 +23,8 @@
                         "typescript",
                         "typescriptreact",
                         "javascript",
-                        "javascriptreact"
+                        "javascriptreact",
+                        "kotlin"
                     ]
                 },
                 "body": [

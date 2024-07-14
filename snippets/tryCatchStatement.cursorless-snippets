@@ -17,6 +17,20 @@
                     "\t$exceptBody",
                     "}"
                 ]
+            }, 
+            {
+                "scope": {
+                    "langIds": [
+                        "kotlin"
+                    ]
+                },
+                "body": [
+                    "try {",
+                    "\t$body",
+                    "} catch ($exception) {",
+                    "\t$exceptBody",
+                    "}"
+                ]
             }
         ]
     }

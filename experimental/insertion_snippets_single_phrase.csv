@@ -1,23 +1,24 @@
 Spoken form, Cursorless identifier
-funk, functionDeclaration.name
-link, link.text
-
 # binder, bindClassFunction.name
-class, classDeclaration.name
-# con, constantDeclaration.name
+# class name, className.classes
 # con type, constantDeclarationWithType.name
-# face, interface.name
-funk type, functionDeclarationWithType.name
-# capture, talonCapture.name
-# let, letDeclaration.name
+# con, constantDeclaration.name
 # let type, letDeclarationWithType.name
-for, forEachStatement.name
-lambda, lambdaExpression.parameters
-lambda block, lambdaBlock.parameters
-# talon list, talonList.name
-# talon tag, talonTag.name
-list comp, listComprehension.element
+# let, letDeclaration.name
+block, block.callee
+capture, talonCapture.name
+class, classDeclaration.name
+command, vscodeCommand.spokenForm
 data class, dataclass.name
-# command, vscodeCommand.spokenForm
-class name, className.classes
-# node, named_node.type
+face, interface.name
+for, forEachStatement.name
+funk type, functionDeclarationWithType.name
+funk, functionDeclaration.name
+lambda block, lambdaBlock.parameters
+lambda, lambdaExpression.parameters
+link, link.text
+list comp, listComprehension.element
+node, named_node.type
+talon list, talonList.name
+talon tag, talonTag.name
+type, typeAlias.name

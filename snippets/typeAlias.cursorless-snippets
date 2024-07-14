@@ -11,6 +11,16 @@
         "body": [
           "type $name = $value;"
         ]
+      }, 
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "typealias $name = $value;"
+        ]
       }
     ],
     "description": "A type alias",

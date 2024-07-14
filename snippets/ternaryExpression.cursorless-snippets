@@ -23,6 +23,16 @@
         "body": [
           "$condition ? $value : $alternative"
         ]
+      },
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "if ($condition) $value else $alternative"
+        ]
       }
     ],
     "description": "Ternary expression",

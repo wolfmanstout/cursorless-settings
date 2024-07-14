@@ -13,6 +13,16 @@
                     "class $name:",
                     "\t$body"
                 ]
+            }, 
+            {
+                "scope": {
+                    "langIds": [
+                        "kotlin"
+                    ]
+                },
+                "body": [
+                    "data class $name($parameters)"
+                ]
             }
         ],
         "description": "Python data class",

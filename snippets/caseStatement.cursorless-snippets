@@ -19,6 +19,16 @@
           "\t$caseBody",
           "\tbreak;"
         ]
+      }, 
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "$caseValue -> $caseBody"
+        ]
       }
     ],
     "description": "Case statement",

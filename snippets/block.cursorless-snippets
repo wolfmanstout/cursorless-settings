@@ -1,0 +1,29 @@
+{
+  "block": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "$callee {",
+          "\t$body",
+          "}"
+        ],
+        "variables": {
+          "callee": {
+              "formatter": "pascalCase"
+          }
+        }
+      }
+    ],
+    "description": "Block",
+    "variables": {
+      "body": {
+        "wrapperScopeType": "statement"
+      }
+    }
+  }
+}

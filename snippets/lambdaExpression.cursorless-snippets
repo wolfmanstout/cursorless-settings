@@ -22,6 +22,21 @@
       {
         "scope": {
           "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "{ $parameters -> $body }"
+        ],
+        "variables": {
+          "parameters": {
+            "formatter": "camelCase"
+          }
+        }
+      },
+      {
+        "scope": {
+          "langIds": [
             "python"
           ]
         },

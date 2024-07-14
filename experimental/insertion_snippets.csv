@@ -1,22 +1,25 @@
 Spoken form, Cursorless identifier
-if, ifStatement
-if else, ifElseStatement
-try, tryCatchStatement
-
+# bold, bold
+# debug jason, debugJson
+# debug, debugPrint
+# else if, elseIf
+# my snippet test, testSnippet
+# switch, switchStatement
+# use effect, useEffect
+case, caseStatement
+constructor, constructor
 else, elseStatement
 elsif, elseIfStatement
-in it, constructor
+full context, talonContextFile
+group, group
+if else, ifElseStatement
+if, ifStatement
+list, list
 map, map
-with, withStatement
-# switch, switchStatement
-# case, caseStatement
-while, whileStatement
-# on ready, talonOnReady
-# full context, talonContextFile
-# shebang, shebang
-else if, elseIf
-# use effect, useEffect
+on ready, talonOnReady
+shebang, shebang
+try, tryCatchStatement
 turn, ternaryExpression
-# debug, debugPrint
-# debug jason, debugJson
-# bold, bold
+when, whenStatement
+while, whileStatement
+with, withStatement

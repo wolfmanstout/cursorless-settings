@@ -24,6 +24,23 @@
       {
         "scope": {
           "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "fun $name($parameterList): $type {",
+          "\t$body",
+          "}"
+        ],
+        "variables": {
+          "name": {
+            "formatter": "camelCase"
+          }
+        }
+      },
+      {
+        "scope": {
+          "langIds": [
             "typescript",
             "typescriptreact",
             "javascript",

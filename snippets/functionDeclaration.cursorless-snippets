@@ -1,0 +1,23 @@
+{
+  "functionDeclaration": {
+    "definitions": [
+      {
+        "scope": {
+          "langIds": [
+            "kotlin"
+          ]
+        },
+        "body": [
+          "fun $name($parameterList) {",
+          "\t$body",
+          "}"
+        ],
+        "variables": {
+          "name": {
+            "formatter": "camelCase"
+          }
+        }
+      }
+    ]
+  }
+}
