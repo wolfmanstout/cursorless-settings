@@ -1,6 +1,6 @@
 Spoken form, Cursorless identifier
 bottom, scrollToBottom
-breakpoint, toggleLineBreakpoint
+break point, toggleLineBreakpoint
 bring, replaceWithTarget
 call, callAsFunction
 carve, cutToClipboard
@@ -25,7 +25,7 @@ hover, showHover
 indent, indentLine
 inspect, showDebugHover
 move, moveToTarget
-paste to, pasteFromClipboard
+paste, pasteFromClipboard
 phones, nextHomophone
 post, setSelectionAfter
 pour, editNewLineAfter

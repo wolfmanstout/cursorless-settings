@@ -1,5 +1,5 @@
 Spoken form, Cursorless identifier
-bound, excludeInterior
+bounds, excludeInterior
 head, extendThroughStartOf
 inside, interiorOnly
 just, toRawSelection

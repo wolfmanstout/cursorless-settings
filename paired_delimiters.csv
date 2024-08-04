@@ -2,9 +2,9 @@ Spoken form, Cursorless identifier
 box, squareBrackets
 curly, curlyBrackets
 diamond, angleBrackets
+escaped box, escapedSquareBrackets
 escaped quad, escapedDoubleQuotes
 escaped round, escapedParentheses
-escaped square, escapedSquareBrackets
 escaped twin, escapedSingleQuotes
 pair, any
 quad, doubleQuotes
