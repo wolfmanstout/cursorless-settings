@@ -71,3 +71,10 @@ follow split, followLinkAside
 append, addSelection
 append post, addSelectionAfter
 append pre, addSelectionBefore
+
+# 2025-04-15 21:34:48 - New entries automatically added by cursorless
+flash, flashTargets
+git accept, gitAccept
+git revert, gitRevert
+git stage, gitStage
+git unstage, gitUnstage
